@@ -26,7 +26,3 @@
 - Key Works & Links:
   - Rosenblatt, F. (1958). _The Perceptron: A Probabilistic Model for Information Storage and Organization in The Brain_.
   - https://en.wikipedia.org/wiki/Perceptron
-
-## Additional Pioneers
-
-- [ ] ...Add more figures as needed
